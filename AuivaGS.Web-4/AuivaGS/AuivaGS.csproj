@@ -1,0 +1,56 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.12">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="ServiceStack.Text" Version="6.5.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+	  <PackageReference Include="Serilog.Sinks.File" Version="5.0.0" />
+	  <PackageReference Include="Serilog" Version="2.11.0" />
+	  <PackageReference Include="AutoMapper" Version="12.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AuivaGS.Core\AuivaGS.Core.csproj" />
+    <ProjectReference Include="..\AuivaGS.DbModel\AuivaGS.DbModel.csproj" />
+    <ProjectReference Include="..\AuviaGS.Common\AuviaGS.Common.csproj" />
+    <ProjectReference Include="..\AuviaGS.SMSServies\AuviaGS.SMSServies.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\profileimages\2acc4861c3cc40a4a3ae62b7cc3566b2Logo.png" />
+    <None Include="wwwroot\profileimages\2e997efb062b4c5eadab9ebc067da4b9Logo.png" />
+    <None Include="wwwroot\profileimages\35bca889a73a4897ab06ebfc5fd7abadLogo.png" />
+    <None Include="wwwroot\profileimages\4f025e7e90464e9db311e6a5d29e8259Logo.png" />
+    <None Include="wwwroot\profileimages\56f708fe6d6847ba8baee6d39624de77Logo.png" />
+    <None Include="wwwroot\profileimages\73b48dda19bb40c6a3da5499783851baLogo.png" />
+    <None Include="wwwroot\profileimages\7b6ab08552174664aa779882f78641f5Logo.png" />
+    <None Include="wwwroot\profileimages\7ec7eac36a1d4538a2b4de400faa413eLogo.png" />
+    <None Include="wwwroot\profileimages\8b6753cd099b45b39a8c05ca52dd65c5Logo.png" />
+    <None Include="wwwroot\profileimages\954e0b1a1c914281a23bd61151d25d1cLogo.png" />
+    <None Include="wwwroot\profileimages\a20ec2751831486c91b675a2aa43dd56Logo.png" />
+    <None Include="wwwroot\profileimages\a222e74812004b0a949ef55f66ad836bLogo.png" />
+    <None Include="wwwroot\profileimages\aa6942eb15d048a8a5d62eac2e9e4af1Logo.png" />
+    <None Include="wwwroot\profileimages\b105421219004ca0aaab90131b1c4034Logo.png" />
+    <None Include="wwwroot\profileimages\b99bbaa560e548318263edb6e1215c95Logo.png" />
+    <None Include="wwwroot\profileimages\bfcfa3f20a6a4c748d8186c3a44fb1e5Logo.png" />
+    <None Include="wwwroot\profileimages\c3fe54d898584f1eadb9165375bec75aLogo.png" />
+    <None Include="wwwroot\profileimages\c72b133d02524efca847d5930cabeb45Logo.png" />
+    <None Include="wwwroot\profileimages\de4fb5efc3a447f189c915f4cc5f8834Logo.png" />
+    <None Include="wwwroot\profileimages\e558641e388b40a3a783dec05a871accLogo.png" />
+    <None Include="wwwroot\profileimages\f0809c5d5b2541b5bbf84a6d0ca3e4b7Logo.png" />
+    <None Include="wwwroot\projects-images\0370a41e5bcd4bc1943cbf07a77ef2c1Logo.png" />
+    <None Include="wwwroot\projects-images\33cc56e9f71f4cde8724b2caa4f6a46aLogo.png" />
+  </ItemGroup>
+
+</Project>

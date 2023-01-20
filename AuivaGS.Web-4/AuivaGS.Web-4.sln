@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuivaGS", "AuivaGS\AuivaGS.csproj", "{B21898A9-2D58-4C38-B096-71B09602F714}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuivaGS.DbModel", "AuivaGS.DbModel\AuivaGS.DbModel.csproj", "{9B94B44D-3E1D-4E43-8B0F-3AFB1690DA51}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuivaGS.Core", "AuivaGS.Core\AuivaGS.Core.csproj", "{3A5143E8-01D9-410C-979E-C38A34C4AE12}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuviaGS.Common", "AuviaGS.Common\AuviaGS.Common.csproj", "{3135AE9A-AC12-4917-9459-BADFD112DFD5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuviGS.EmailServies", "AuviGS.EmailServies\AuviGS.EmailServies.csproj", "{4197192A-B9CF-42A4-89B5-974BF01B8663}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuviaGS.SMSServies", "AuviaGS.SMSServies\AuviaGS.SMSServies.csproj", "{60A70FB2-F9BB-4FA9-BC98-352CB92D77AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuivaGS.AWSServies", "AuivaGS.AWSServies\AuivaGS.AWSServies.csproj", "{6CC5131E-395A-4B06-AAE5-EE2B25AF2058}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B21898A9-2D58-4C38-B096-71B09602F714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B21898A9-2D58-4C38-B096-71B09602F714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B21898A9-2D58-4C38-B096-71B09602F714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B21898A9-2D58-4C38-B096-71B09602F714}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B94B44D-3E1D-4E43-8B0F-3AFB1690DA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B94B44D-3E1D-4E43-8B0F-3AFB1690DA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B94B44D-3E1D-4E43-8B0F-3AFB1690DA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B94B44D-3E1D-4E43-8B0F-3AFB1690DA51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A5143E8-01D9-410C-979E-C38A34C4AE12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A5143E8-01D9-410C-979E-C38A34C4AE12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A5143E8-01D9-410C-979E-C38A34C4AE12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A5143E8-01D9-410C-979E-C38A34C4AE12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3135AE9A-AC12-4917-9459-BADFD112DFD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3135AE9A-AC12-4917-9459-BADFD112DFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3135AE9A-AC12-4917-9459-BADFD112DFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3135AE9A-AC12-4917-9459-BADFD112DFD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4197192A-B9CF-42A4-89B5-974BF01B8663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4197192A-B9CF-42A4-89B5-974BF01B8663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4197192A-B9CF-42A4-89B5-974BF01B8663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4197192A-B9CF-42A4-89B5-974BF01B8663}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60A70FB2-F9BB-4FA9-BC98-352CB92D77AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A70FB2-F9BB-4FA9-BC98-352CB92D77AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A70FB2-F9BB-4FA9-BC98-352CB92D77AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A70FB2-F9BB-4FA9-BC98-352CB92D77AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CC5131E-395A-4B06-AAE5-EE2B25AF2058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC5131E-395A-4B06-AAE5-EE2B25AF2058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC5131E-395A-4B06-AAE5-EE2B25AF2058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC5131E-395A-4B06-AAE5-EE2B25AF2058}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3727EDD-95A3-4E48-A23B-6E7D366F82EE}
+	EndGlobalSection
+EndGlobal
