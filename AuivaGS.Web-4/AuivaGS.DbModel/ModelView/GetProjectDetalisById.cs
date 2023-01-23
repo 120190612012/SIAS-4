@@ -15,6 +15,10 @@ namespace AuivaGS.DbModel.ModelView
         public string? Descirotion { get; set; }
         public DateTime? CreatedDateUTC { get; set; }
 
+        //public string? UserCreate { get; set; }
+
+        //public string? ImageUserCreate { get; set; }
+
         public List<string> ProjectTools { get; set; } = null!;
         public List<string> ProejctCatoraoy { get; set; } = null!;
         public List<string> Images { get; set; } = null!;

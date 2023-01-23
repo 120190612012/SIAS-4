@@ -182,8 +182,14 @@ namespace AuivaGS.Core.Mangers
                 var userGallary = gallary.Where(a => a.Id == items.GallaryId)
                                          .Select(a => $"{a.User.FirstNameUser} {a.User.LastNameUser}")
                                          .First();
+                var userimageProject = gallary.Where(a => a.Id == items.GallaryId)
+                                         .Select(a => a.User.Image)
+                                         .First();
                 var userProject = projects.Where(a => a.Id == items.ProjectId)
                                          .Select(a => a.Title)
+                                         .First();
+                var userProjectDisc = projects.Where(a => a.Id == items.ProjectId)
+                                         .Select(a => a.Descirotion)
                                          .First();
 
                 var createDate = projects.Where(a => a.Id == items.ProjectId)
@@ -201,8 +207,10 @@ namespace AuivaGS.Core.Mangers
                     ProjectID = (int)items.ProjectId,
                     ImageString = userImage,
                     CreatorName = userGallary,
+                    ProjectDescption = userProjectDisc,
                     ProjectName = userProject,
-                    CreateDate = createDate
+                    CreateDate = createDate,
+                    UserImage = userimageProject
                 });
 
             }
@@ -315,6 +323,11 @@ namespace AuivaGS.Core.Mangers
         {
             var project = _auivaGSDbContext.Projects.Find(Id)
                                                      ?? throw new AuviaGSException("Invalid Id!!");
+            
+            //var GalaryID = _auivaGSDbContext.GalleryProjects.Where(a => a.ProjectId == project.Id).Select(a => a.GallaryId).First()
+            //    ?? throw new AuviaGSException("Invalid Id!!");
+            //var GalaryUserId = _auivaGSDbContext.Galleries.Where(a => a.Id == GalaryID).Select(a => a.UserId)
+            //    ?? throw new AuviaGSException("Invalid Id!!");
             //Its working but no need
             /*var projectCatorgoy = (from ProjectConntionProjectCategory in _auivaGSDbContext.ProjectConntionProjectCategories
                                    join ProjectCategory in _auivaGSDbContext.ProjectCategories
@@ -335,10 +348,17 @@ namespace AuivaGS.Core.Mangers
             var projectImages = _auivaGSDbContext.ProjectConntionPhotoProjectPaths.Include(c => c.PhotoProject)
                                                                                   .Where(a => a.ProjectId == Id)
                                                                                   .Select(a => a.PhotoProject.ProjectPhotoPath1)
-                                                                                  .ToList();
+                                                                                 .ToList();
+            //var GallaryId = project.GalleryProjects.Select(a=>a.GallaryId).First();
+
+            //var UserId = _auivaGSDbContext.Galleries.Include(c => c.Id)
+            //                                                         .Where(a => a.Id == GallaryId)
+            //                                                         .Select(a => a.UserId)
+            //                                                         .ToList();
+            //var User = _auivaGSDbContext.Users.Find(UserId);
 
             List<string> Images = new List<string>();
-            foreach (var items in projectImages)
+            foreach (var items in projectImages)    
             {
                 /*  var filename = items.Split("filename=").Last();
                   var folderPath = _environment.WebRootPath;
@@ -353,6 +373,8 @@ namespace AuivaGS.Core.Mangers
             {
                 Id = project.Id,
                 Title = project.Title,
+                //UserCreate = User.Username,
+                //ImageUserCreate = User.Image,
                 SpaceWidth = project.SpaceWidth,
                 SpaceHeight = project.SpaceHeight,
                 ProjectTools = projectTools,

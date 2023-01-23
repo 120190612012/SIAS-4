@@ -11,6 +11,7 @@ namespace AuivaGS.DbModel.ModelSP
         public string Title { get; set; }
         public string Descrption { get; set; }
         public string CreateDateTime { get; set; }
+        public string image { get; set; }
         public string username { get; set; }
     }
 }

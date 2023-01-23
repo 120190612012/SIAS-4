@@ -12,7 +12,10 @@ namespace AuivaGS.DbModel.ModelView
         public int ProjectID { get; set; }
         public string ImageString { get; set; } = null!;
         public string ProjectName { get; set; } = null!;
+        public string ProjectDescption { get; set; } = null!;
         public string CreatorName { get; set; } = null!;
+
+        public string UserImage { get; set; } = null!;
 
         public DateTime? CreateDate { get; set; }
     }
