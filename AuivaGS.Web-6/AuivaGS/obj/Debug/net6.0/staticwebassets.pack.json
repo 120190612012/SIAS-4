@@ -1,0 +1,505 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\arts-images\\067a123e4504466283f770fefc423e07Logo.png",
+      "PackagePath": "staticwebassets\\arts-images\\067a123e4504466283f770fefc423e07Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\arts-images\\de48619efdd8476d85fac1b98f87e21cLogo.png",
+      "PackagePath": "staticwebassets\\arts-images\\de48619efdd8476d85fac1b98f87e21cLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\arts-images\\e700ff99610741daaee28b4b4aef3f75Logo.png",
+      "PackagePath": "staticwebassets\\arts-images\\e700ff99610741daaee28b4b4aef3f75Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\arts-images\\ec420353f8664d1e9009422422b8994fLogo.png",
+      "PackagePath": "staticwebassets\\arts-images\\ec420353f8664d1e9009422422b8994fLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\2acc4861c3cc40a4a3ae62b7cc3566b2Logo.png",
+      "PackagePath": "staticwebassets\\profileimages\\2acc4861c3cc40a4a3ae62b7cc3566b2Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\2c0137a5e9b2429ebcba0bb26abdaabbLogo.png",
+      "PackagePath": "staticwebassets\\profileimages\\2c0137a5e9b2429ebcba0bb26abdaabbLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\2e997efb062b4c5eadab9ebc067da4b9Logo.png",
+      "PackagePath": "staticwebassets\\profileimages\\2e997efb062b4c5eadab9ebc067da4b9Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\35bca889a73a4897ab06ebfc5fd7abadLogo.png",
+      "PackagePath": "staticwebassets\\profileimages\\35bca889a73a4897ab06ebfc5fd7abadLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\4e4d4bf3d36549ac977f9b1b69a94fcfLogo.png",
+      "PackagePath": "staticwebassets\\profileimages\\4e4d4bf3d36549ac977f9b1b69a94fcfLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\4f025e7e90464e9db311e6a5d29e8259Logo.png",
+      "PackagePath": "staticwebassets\\profileimages\\4f025e7e90464e9db311e6a5d29e8259Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\56f708fe6d6847ba8baee6d39624de77Logo.png",
+      "PackagePath": "staticwebassets\\profileimages\\56f708fe6d6847ba8baee6d39624de77Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\73b48dda19bb40c6a3da5499783851baLogo.png",
+      "PackagePath": "staticwebassets\\profileimages\\73b48dda19bb40c6a3da5499783851baLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\7b6ab08552174664aa779882f78641f5Logo.png",
+      "PackagePath": "staticwebassets\\profileimages\\7b6ab08552174664aa779882f78641f5Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\7ec7eac36a1d4538a2b4de400faa413eLogo.png",
+      "PackagePath": "staticwebassets\\profileimages\\7ec7eac36a1d4538a2b4de400faa413eLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\8b6753cd099b45b39a8c05ca52dd65c5Logo.png",
+      "PackagePath": "staticwebassets\\profileimages\\8b6753cd099b45b39a8c05ca52dd65c5Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\8f3036224d114aaf8bd082734562e40aLogo.png",
+      "PackagePath": "staticwebassets\\profileimages\\8f3036224d114aaf8bd082734562e40aLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\9086441867724c3c965179e1c41f7815Logo.png",
+      "PackagePath": "staticwebassets\\profileimages\\9086441867724c3c965179e1c41f7815Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\954e0b1a1c914281a23bd61151d25d1cLogo.png",
+      "PackagePath": "staticwebassets\\profileimages\\954e0b1a1c914281a23bd61151d25d1cLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\a20ec2751831486c91b675a2aa43dd56Logo.png",
+      "PackagePath": "staticwebassets\\profileimages\\a20ec2751831486c91b675a2aa43dd56Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\a222e74812004b0a949ef55f66ad836bLogo.png",
+      "PackagePath": "staticwebassets\\profileimages\\a222e74812004b0a949ef55f66ad836bLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\aa6942eb15d048a8a5d62eac2e9e4af1Logo.png",
+      "PackagePath": "staticwebassets\\profileimages\\aa6942eb15d048a8a5d62eac2e9e4af1Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\b105421219004ca0aaab90131b1c4034Logo.png",
+      "PackagePath": "staticwebassets\\profileimages\\b105421219004ca0aaab90131b1c4034Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\b32da0ee6e1c40c7abd8edfa677e1997Logo.png",
+      "PackagePath": "staticwebassets\\profileimages\\b32da0ee6e1c40c7abd8edfa677e1997Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\b44e841eae8b498b8a55b71295cf0e0bLogo.png",
+      "PackagePath": "staticwebassets\\profileimages\\b44e841eae8b498b8a55b71295cf0e0bLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\b99bbaa560e548318263edb6e1215c95Logo.png",
+      "PackagePath": "staticwebassets\\profileimages\\b99bbaa560e548318263edb6e1215c95Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\bcff055d1b854e39b4af3201e426c913Logo.png",
+      "PackagePath": "staticwebassets\\profileimages\\bcff055d1b854e39b4af3201e426c913Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\bfcfa3f20a6a4c748d8186c3a44fb1e5Logo.png",
+      "PackagePath": "staticwebassets\\profileimages\\bfcfa3f20a6a4c748d8186c3a44fb1e5Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\c3fe54d898584f1eadb9165375bec75aLogo.png",
+      "PackagePath": "staticwebassets\\profileimages\\c3fe54d898584f1eadb9165375bec75aLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\c72b133d02524efca847d5930cabeb45Logo.png",
+      "PackagePath": "staticwebassets\\profileimages\\c72b133d02524efca847d5930cabeb45Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\c8f92207c2004df38bcb3df68f525303Logo.png",
+      "PackagePath": "staticwebassets\\profileimages\\c8f92207c2004df38bcb3df68f525303Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\de2ea0678447474bb15d0116953526ffLogo.png",
+      "PackagePath": "staticwebassets\\profileimages\\de2ea0678447474bb15d0116953526ffLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\de4fb5efc3a447f189c915f4cc5f8834Logo.png",
+      "PackagePath": "staticwebassets\\profileimages\\de4fb5efc3a447f189c915f4cc5f8834Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\e558641e388b40a3a783dec05a871accLogo.png",
+      "PackagePath": "staticwebassets\\profileimages\\e558641e388b40a3a783dec05a871accLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\profileimages\\f0809c5d5b2541b5bbf84a6d0ca3e4b7Logo.png",
+      "PackagePath": "staticwebassets\\profileimages\\f0809c5d5b2541b5bbf84a6d0ca3e4b7Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\026b1c5001ef4cf6885ae31455f87638Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\026b1c5001ef4cf6885ae31455f87638Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\0370a41e5bcd4bc1943cbf07a77ef2c1Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\0370a41e5bcd4bc1943cbf07a77ef2c1Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\03d1c9161c824a67b0a65f573b0bb9b8Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\03d1c9161c824a67b0a65f573b0bb9b8Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\06626bc1f915441a89cf5b38246a17a7Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\06626bc1f915441a89cf5b38246a17a7Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\08a31782dd4d4182856b362f0517b8e7Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\08a31782dd4d4182856b362f0517b8e7Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\09210ddc810d44c2a97ba5576fa4a5bbLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\09210ddc810d44c2a97ba5576fa4a5bbLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\0e207f50a7864551acdccb55894ab060Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\0e207f50a7864551acdccb55894ab060Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\0fcdf8548a664d28b88f60abba2dba67Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\0fcdf8548a664d28b88f60abba2dba67Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\110863f2c88046d49fe20c25e280fa1fLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\110863f2c88046d49fe20c25e280fa1fLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\141f4da3d3554f6eb8ea491250027ed5Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\141f4da3d3554f6eb8ea491250027ed5Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\14f10758e68046af952caa6c17a9a84dLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\14f10758e68046af952caa6c17a9a84dLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\198cf110550642af9c9efb4b5f9b566cLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\198cf110550642af9c9efb4b5f9b566cLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\1ad282ed7a2844109d1d47477edef937Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\1ad282ed7a2844109d1d47477edef937Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\1bd53d52004846e4baf0343f455dfde2Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\1bd53d52004846e4baf0343f455dfde2Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\1d50a7e6912f41e285051ca93ab0977bLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\1d50a7e6912f41e285051ca93ab0977bLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\1f3f61475deb43c3961d23f0ee1289f6Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\1f3f61475deb43c3961d23f0ee1289f6Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\205105d6ba2f4dfb9dbff87b5f3da2acLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\205105d6ba2f4dfb9dbff87b5f3da2acLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\2223658aea014a58a9211a0da8c77258Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\2223658aea014a58a9211a0da8c77258Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\22f93a8a669d422fa22b405d26ca3414Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\22f93a8a669d422fa22b405d26ca3414Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\2799c3be5b30458e86f642955a8356d3Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\2799c3be5b30458e86f642955a8356d3Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\27ffdf44989d4c58acaedf9184307b97Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\27ffdf44989d4c58acaedf9184307b97Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\28ac886724f04bfe970b77968ae3ebb1Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\28ac886724f04bfe970b77968ae3ebb1Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\2b3c4467d92c45d3aebe21a36dd4630cLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\2b3c4467d92c45d3aebe21a36dd4630cLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\2c90251f612540a08032606c1eb57b3dLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\2c90251f612540a08032606c1eb57b3dLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\2e719d3665974b459508c4c26bfe252eLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\2e719d3665974b459508c4c26bfe252eLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\33cc56e9f71f4cde8724b2caa4f6a46aLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\33cc56e9f71f4cde8724b2caa4f6a46aLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\3778f58f7c9d4b5880c59e1e22142362Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\3778f58f7c9d4b5880c59e1e22142362Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\3a519d341418485cbc03dc19b401df27Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\3a519d341418485cbc03dc19b401df27Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\3c3ba7893c6b4efe9d527f7448adbddfLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\3c3ba7893c6b4efe9d527f7448adbddfLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\3ca5a65458ea4c75b73d8c44b27e12f5Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\3ca5a65458ea4c75b73d8c44b27e12f5Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\3ecee12721f247f6bdaf956bf9b5344dLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\3ecee12721f247f6bdaf956bf9b5344dLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\3f53bb9edf664d268462eb5b8bea313cLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\3f53bb9edf664d268462eb5b8bea313cLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\4119fb6d926848b48e86587ab8f27f04Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\4119fb6d926848b48e86587ab8f27f04Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\42c0930e2dea4f27922d183b3671de9cLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\42c0930e2dea4f27922d183b3671de9cLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\464c78b8670541ad969bf6f9b90510b8Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\464c78b8670541ad969bf6f9b90510b8Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\4c0e6603e3c044a98e8bffa9154c0764Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\4c0e6603e3c044a98e8bffa9154c0764Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\4c69760ff9b14755bf629df12d2f4487Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\4c69760ff9b14755bf629df12d2f4487Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\4d541837c8f74cbeb5e1ebb3ee94aeb7Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\4d541837c8f74cbeb5e1ebb3ee94aeb7Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\502d1bb9cf714428a78a97b6c5623658Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\502d1bb9cf714428a78a97b6c5623658Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\524d41c68b684493bb41cead4e601224Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\524d41c68b684493bb41cead4e601224Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\52f34e9752f34257aa941bae347299f4Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\52f34e9752f34257aa941bae347299f4Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\55eba11d053e411caab0beb524f0190bLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\55eba11d053e411caab0beb524f0190bLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\5fdd5b56895945f59b912d33e5261a42Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\5fdd5b56895945f59b912d33e5261a42Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\6bfcccec30fb49938157a55a41ab2706Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\6bfcccec30fb49938157a55a41ab2706Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\6f9655cafce14d14af1140d0ee8f057cLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\6f9655cafce14d14af1140d0ee8f057cLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\76cdd572f2d7422c9407348f9d97fc82Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\76cdd572f2d7422c9407348f9d97fc82Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\7df5a91814354189b862950d572efaa8Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\7df5a91814354189b862950d572efaa8Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\810a870bc44f4a7fa4b3add6678b44f5Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\810a870bc44f4a7fa4b3add6678b44f5Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\86f94c5480634e8cadebcd6b927bcfd7Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\86f94c5480634e8cadebcd6b927bcfd7Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\87eaa8a1dec546a08e5a897110dfd0e6Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\87eaa8a1dec546a08e5a897110dfd0e6Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\89df3a583ebf4e24b6f8c7d78cfbf3bfLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\89df3a583ebf4e24b6f8c7d78cfbf3bfLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\8d99376c0e8e47a9b01e2f8cbdbdff15Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\8d99376c0e8e47a9b01e2f8cbdbdff15Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\95f5d6857b7c4cf8b42e18398ddd7b6aLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\95f5d6857b7c4cf8b42e18398ddd7b6aLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\9d1a80f0e1884d49960d5e040856f464Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\9d1a80f0e1884d49960d5e040856f464Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\9ee8a60ee8f4402189a180e185ea7e2dLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\9ee8a60ee8f4402189a180e185ea7e2dLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\9f8795d539444802b636191c70e16ed7Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\9f8795d539444802b636191c70e16ed7Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\9ff95aa13aec4814a7fe41180068c14dLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\9ff95aa13aec4814a7fe41180068c14dLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\a1d00759b80f4ddbb9a192f9858aa6f2Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\a1d00759b80f4ddbb9a192f9858aa6f2Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\a7a76754c4904c13be28fff5ae9427c7Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\a7a76754c4904c13be28fff5ae9427c7Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\a806ceaac1ef4fe99ff30bffb98c0835Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\a806ceaac1ef4fe99ff30bffb98c0835Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\a813d65927fb439cafbd77cd8610d9e8Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\a813d65927fb439cafbd77cd8610d9e8Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\ae7aba29245b4b95b82c2d3ba7303212Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\ae7aba29245b4b95b82c2d3ba7303212Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\b173a60f08214c76bd8a48f99b79c4bfLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\b173a60f08214c76bd8a48f99b79c4bfLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\b210739d661b43fb9d2e765164fb9319Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\b210739d661b43fb9d2e765164fb9319Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\b2d745b1d5e84e368e5ae9a4bfa34266Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\b2d745b1d5e84e368e5ae9a4bfa34266Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\b6125b2b970b41e39f667eae6fb13d11Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\b6125b2b970b41e39f667eae6fb13d11Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\b6c319cf8cda43a49a0273ba4a8a8b34Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\b6c319cf8cda43a49a0273ba4a8a8b34Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\bc5c349f04da434689d475fd459bce1bLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\bc5c349f04da434689d475fd459bce1bLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\be39ac22c14b4edf92a94eafc518cc86Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\be39ac22c14b4edf92a94eafc518cc86Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\d1a895b0e46345c0b31a70c7ec7e5cf3Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\d1a895b0e46345c0b31a70c7ec7e5cf3Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\d8c4cc0f5c4341fb9cc490a741145e6bLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\d8c4cc0f5c4341fb9cc490a741145e6bLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\da03db88357048cfb2f79ed65ee60efbLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\da03db88357048cfb2f79ed65ee60efbLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\db587c4c0f1846d18e12e306dd53cb13Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\db587c4c0f1846d18e12e306dd53cb13Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\de30b34463834c34b6226c551d99a0f1Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\de30b34463834c34b6226c551d99a0f1Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\de6f54deff394e9f8888dd51e7ff7741Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\de6f54deff394e9f8888dd51e7ff7741Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\e566041f832f40d3b7ad68e5cfc6fcceLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\e566041f832f40d3b7ad68e5cfc6fcceLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\e624054925a340b78db6d811d2d6590dLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\e624054925a340b78db6d811d2d6590dLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\e8343f599fb4494b937b35422c138c25Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\e8343f599fb4494b937b35422c138c25Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\ea3bfff9a16749a28298ce4aa8418374Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\ea3bfff9a16749a28298ce4aa8418374Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\ea51cd6d787944f9bb6ebb65a05dd941Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\ea51cd6d787944f9bb6ebb65a05dd941Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\eb48e61d47384603b21d028d74f5ec4dLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\eb48e61d47384603b21d028d74f5ec4dLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\ec80109a4ed5469f919e75fbb2c0f7daLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\ec80109a4ed5469f919e75fbb2c0f7daLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\efe1f9461c2d467aa144686f66bbf241Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\efe1f9461c2d467aa144686f66bbf241Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\f1249ae7dc3d4f72bbda78f4e19f0becLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\f1249ae7dc3d4f72bbda78f4e19f0becLogo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\fb210ffed0744460b449e54402d3aa78Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\fb210ffed0744460b449e54402d3aa78Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\fda31b30efb94573926b658b272f8481Logo.png",
+      "PackagePath": "staticwebassets\\projects-images\\fda31b30efb94573926b658b272f8481Logo.png"
+    },
+    {
+      "Id": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS\\wwwroot\\projects-images\\ff38d73805724724938b01bd77fe51aaLogo.png",
+      "PackagePath": "staticwebassets\\projects-images\\ff38d73805724724938b01bd77fe51aaLogo.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AuivaGS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AuivaGS.props",
+      "PackagePath": "build\\AuivaGS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AuivaGS.props",
+      "PackagePath": "buildMultiTargeting\\AuivaGS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AuivaGS.props",
+      "PackagePath": "buildTransitive\\AuivaGS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

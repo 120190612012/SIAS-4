@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LzwcSLH6E6uhel7iQYH5CUTLnlGW8AJRe/NhLLgVOP+nQTh1POynedgDkJXACXBki+tdD0/mIibEv07n/IXMHQ==",
+  "success": true,
+  "projectFilePath": "F:\\ahu\\Project\\Asp.NET\\1192023\\AuivaGS.Web-6\\AuivaGS.AWSServies\\AuivaGS.AWSServies.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mohma\\.nuget\\packages\\awssdk.core\\3.7.103.11\\awssdk.core.3.7.103.11.nupkg.sha512",
+    "C:\\Users\\mohma\\.nuget\\packages\\awssdk.s3\\3.7.101.49\\awssdk.s3.3.7.101.49.nupkg.sha512"
+  ],
+  "logs": []
+}
